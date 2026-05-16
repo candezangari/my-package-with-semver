@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v2.0.0 (2026-05-16)
+
+### Features
+
+- Introduce a breaking change
+  ([`afe28c6`](https://github.com/candezangari/my-package-with-semver/commit/afe28c6d922e4fce6526bbc82434212d4c31473d))
+
+
 ## v1.1.0 (2026-05-16)
 
 ### Bug Fixes
