@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v2.0.1 (2026-05-16)
+
+### Bug Fixes
+
+- Correct a minor bug
+  ([`b3ad48c`](https://github.com/candezangari/my-package-with-semver/commit/b3ad48c169dcebf4836a7ac024668ad8a69deaa8))
+
+
 ## v2.0.0 (2026-05-16)
 
 ### Features
